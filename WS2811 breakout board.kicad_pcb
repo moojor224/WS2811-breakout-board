@@ -2113,6 +2113,22 @@
 		(uuid "da7510bc-7343-4909-8895-8ac11d647ce0")
 	)
 	(segment
+		(start 148.513374 93.178695)
+		(end 146.89175 93.178695)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 0)
+		(uuid "da7e7491-fe93-4f3a-8f7a-08cff5625a00")
+	)
+	(segment
+		(start 150.251123 91.440946)
+		(end 148.513374 93.178695)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 0)
+		(uuid "e325a951-41a0-4c2c-a7a2-a733ecce6a05")
+	)
+	(segment
 		(start 146.776604 90.820458)
 		(end 147.101123 91.144977)
 		(width 0.4)
