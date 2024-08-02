@@ -24,7 +24,7 @@ Additionally, the board shrunk by 0.1 inches horizontally due to taking out the 
 
 
 ![v2 pcb](./images/v2%20pcb.png)
-![v2 photo pending](./images/v2%20photo.jpg)
+![v2 photo](./images/v2%20photo.jpg)
 
 ## v2.5
 
