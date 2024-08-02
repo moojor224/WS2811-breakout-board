@@ -22,6 +22,8 @@ This time around, I actually measured the components I had and adjusted the inco
 
 Additionally, the board shrunk by 0.1 inches horizontally due to taking out the 100 ohm resistor
 
+while checking if I soldered the IC to the pcb correctly, I found that the in/out GND pins at the left/right side of the pcb were not connected. This is temporarily fixable by simply connecting the screw terminals with a short length of wire, but is fixed in V2.5
+
 
 ![v2 pcb](./images/v2%20pcb.png)
 ![v2 photo](./images/v2%20photo.jpg)
@@ -29,6 +31,7 @@ Additionally, the board shrunk by 0.1 inches horizontally due to taking out the 
 ## v2.5
 
 this version is just a re-route of v2 to put the traces on one side
+also fixes the gnd disconnect mistake from V2
 
 
 ![v2.5 pcb](./images/v2.5%20pcb.png)
