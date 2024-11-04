@@ -1,5 +1,7 @@
-/WS2811 breakout board-backups/
+/*-backups/
 
 fp-info-cache
 *.lck
 *.tmp
+
+/gerber-outs
